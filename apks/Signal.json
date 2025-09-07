@@ -1,0 +1,11 @@
+{
+  "name": "Signal",
+  "package": "org.thoughtcrime.securesms",
+  "version": "7.54.1",
+  "apk_url": "https://github.com/akwabijoel-sudo/AuroraAppStore/raw/main/apks/Signal-Android-website-prod-universal-release-7.54.1.apk",
+  "icon_url": "https://raw.githubusercontent.com/akwabijoel-sudo/AuroraAppStore/main/icons/signal_icon.png",
+  "description": "Private messaging app",
+  "rating": 4.7,
+  "downloads": 5000000
+}
+Add Signal JSON
